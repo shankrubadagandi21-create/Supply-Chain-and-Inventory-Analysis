@@ -1,0 +1,877 @@
+product_id,product_name,warehouse_name,available_quantity,recorder_level,minimum_replenishment_quantity
+1,"Premium Laptop 001","Central Warehouse",82,102,20
+1,"Premium Laptop 001","North Distribution Warehouse",14,102,88
+1,"Premium Laptop 001","South Regional Warehouse",36,102,66
+2,"Eco Blender 002","Central Warehouse",32,81,49
+2,"Eco Blender 002","North Distribution Warehouse",72,81,9
+3,"Ultra Printer 003","Central Warehouse",110,112,2
+3,"Ultra Printer 003","North Distribution Warehouse",74,112,38
+3,"Ultra Printer 003","South Regional Warehouse",27,112,85
+4,"Premium Storage Box 004","Central Warehouse",38,96,58
+4,"Premium Storage Box 004","North Distribution Warehouse",34,96,62
+4,"Premium Storage Box 004","South Regional Warehouse",31,96,65
+5,"Premium Tool Kit 005","Central Warehouse",33,97,64
+5,"Premium Tool Kit 005","North Distribution Warehouse",32,97,65
+5,"Premium Tool Kit 005","South Regional Warehouse",31,97,66
+6,"Compact Mouse 006","Central Warehouse",91,113,22
+6,"Compact Mouse 006","North Distribution Warehouse",20,113,93
+6,"Compact Mouse 006","South Regional Warehouse",25,113,88
+7,"Smart Keyboard 007","Central Warehouse",13,31,18
+7,"Smart Keyboard 007","South Regional Warehouse",24,31,7
+8,"Ultra Blender 008","Central Warehouse",73,97,24
+8,"Ultra Blender 008","North Distribution Warehouse",63,97,34
+9,"Essential Charger 009","Central Warehouse",38,47,9
+9,"Essential Charger 009","North Distribution Warehouse",21,47,26
+9,"Essential Charger 009","South Regional Warehouse",13,47,34
+10,"Smart Storage Box 010","Central Warehouse",5,69,64
+10,"Smart Storage Box 010","North Distribution Warehouse",50,69,19
+11,"Ultra Storage Box 011","Central Warehouse",63,85,22
+11,"Ultra Storage Box 011","North Distribution Warehouse",14,85,71
+12,"Compact Blender 012","Central Warehouse",26,117,91
+12,"Compact Blender 012","North Distribution Warehouse",22,117,95
+12,"Compact Blender 012","South Regional Warehouse",26,117,91
+13,"Advanced Tool Kit 013","Central Warehouse",47,100,53
+13,"Advanced Tool Kit 013","North Distribution Warehouse",14,100,86
+13,"Advanced Tool Kit 013","South Regional Warehouse",43,100,57
+15,"Classic Backpack 015","Central Warehouse",16,69,53
+15,"Classic Backpack 015","North Distribution Warehouse",49,69,20
+15,"Classic Backpack 015","South Regional Warehouse",20,69,49
+16,"Pro Bottle 016","Central Warehouse",19,71,52
+16,"Pro Bottle 016","North Distribution Warehouse",16,71,55
+16,"Pro Bottle 016","South Regional Warehouse",10,71,61
+17,"Classic Desk 017","Central Warehouse",29,71,42
+18,"Pro Monitor 018","Central Warehouse",29,64,35
+18,"Pro Monitor 018","South Regional Warehouse",33,64,31
+20,"Premium Speaker 020","North Distribution Warehouse",14,16,2
+21,"Pro Charger 021","North Distribution Warehouse",44,48,4
+21,"Pro Charger 021","South Regional Warehouse",35,48,13
+22,"Eco Mouse 022","Central Warehouse",26,98,72
+22,"Eco Mouse 022","North Distribution Warehouse",48,98,50
+22,"Eco Mouse 022","South Regional Warehouse",38,98,60
+25,"Premium Storage Box 025","Central Warehouse",13,69,56
+25,"Premium Storage Box 025","North Distribution Warehouse",57,69,12
+25,"Premium Storage Box 025","South Regional Warehouse",45,69,24
+26,"Eco Charger 026","Central Warehouse",15,17,2
+26,"Eco Charger 026","North Distribution Warehouse",12,17,5
+27,"Pro Tool Kit 027","North Distribution Warehouse",50,87,37
+30,"Eco Keyboard 030","Central Warehouse",36,63,27
+31,"Ultra Monitor 031","Central Warehouse",57,63,6
+32,"Compact Bottle 032","North Distribution Warehouse",14,27,13
+33,"Advanced Speaker 033","Central Warehouse",31,43,12
+34,"Classic Speaker 034","Central Warehouse",27,109,82
+34,"Classic Speaker 034","North Distribution Warehouse",91,109,18
+34,"Classic Speaker 034","South Regional Warehouse",34,109,75
+35,"Pro Desk 035","Central Warehouse",34,57,23
+35,"Pro Desk 035","North Distribution Warehouse",54,57,3
+35,"Pro Desk 035","South Regional Warehouse",55,57,2
+36,"Eco Keyboard 036","Central Warehouse",46,87,41
+36,"Eco Keyboard 036","North Distribution Warehouse",16,87,71
+36,"Eco Keyboard 036","South Regional Warehouse",40,87,47
+37,"Digital Chair 037","North Distribution Warehouse",5,71,66
+38,"Essential Blender 038","North Distribution Warehouse",16,89,73
+38,"Essential Blender 038","South Regional Warehouse",31,89,58
+39,"Classic Camera 039","Central Warehouse",21,62,41
+40,"Compact Bottle 040","North Distribution Warehouse",48,98,50
+41,"Essential Blender 041","Central Warehouse",44,118,74
+41,"Essential Blender 041","South Regional Warehouse",39,118,79
+43,"Ultra Mouse 043","Central Warehouse",22,98,76
+43,"Ultra Mouse 043","North Distribution Warehouse",22,98,76
+43,"Ultra Mouse 043","South Regional Warehouse",22,98,76
+44,"Pro Lamp 044","Central Warehouse",84,97,13
+44,"Pro Lamp 044","North Distribution Warehouse",41,97,56
+46,"Ultra Tool Kit 046","North Distribution Warehouse",11,20,9
+48,"Advanced Lamp 048","Central Warehouse",40,42,2
+49,"Advanced Printer 049","Central Warehouse",40,115,75
+49,"Advanced Printer 049","North Distribution Warehouse",67,115,48
+49,"Advanced Printer 049","South Regional Warehouse",11,115,104
+50,"Eco Printer 050","Central Warehouse",40,50,10
+50,"Eco Printer 050","North Distribution Warehouse",17,50,33
+50,"Eco Printer 050","South Regional Warehouse",49,50,1
+51,"Ultra Storage Box 051","Central Warehouse",53,82,29
+51,"Ultra Storage Box 051","North Distribution Warehouse",53,82,29
+51,"Ultra Storage Box 051","South Regional Warehouse",31,82,51
+52,"Essential Bottle 052","North Distribution Warehouse",17,43,26
+52,"Essential Bottle 052","South Regional Warehouse",16,43,27
+53,"Digital Backpack 053","North Distribution Warehouse",26,32,6
+53,"Digital Backpack 053","South Regional Warehouse",22,32,10
+54,"Digital Lamp 054","South Regional Warehouse",28,46,18
+55,"Pro Blender 055","Central Warehouse",52,113,61
+55,"Pro Blender 055","South Regional Warehouse",75,113,38
+57,"Advanced Keyboard 057","Central Warehouse",46,110,64
+57,"Advanced Keyboard 057","North Distribution Warehouse",45,110,65
+57,"Advanced Keyboard 057","South Regional Warehouse",54,110,56
+59,"Classic Chair 059","Central Warehouse",35,99,64
+59,"Classic Chair 059","North Distribution Warehouse",48,99,51
+59,"Classic Chair 059","South Regional Warehouse",17,99,82
+62,"Compact Charger 062","Central Warehouse",21,99,78
+62,"Compact Charger 062","North Distribution Warehouse",73,99,26
+62,"Compact Charger 062","South Regional Warehouse",80,99,19
+63,"Advanced Mixer 063","Central Warehouse",42,86,44
+63,"Advanced Mixer 063","North Distribution Warehouse",27,86,59
+64,"Eco Storage Box 064","Central Warehouse",57,105,48
+64,"Eco Storage Box 064","North Distribution Warehouse",17,105,88
+65,"Smart Monitor 065","Central Warehouse",23,61,38
+65,"Smart Monitor 065","South Regional Warehouse",47,61,14
+66,"Essential Bottle 066","North Distribution Warehouse",9,13,4
+69,"Classic Camera 069","North Distribution Warehouse",38,45,7
+69,"Classic Camera 069","South Regional Warehouse",19,45,26
+70,"Smart Bottle 070","Central Warehouse",7,80,73
+70,"Smart Bottle 070","North Distribution Warehouse",32,80,48
+70,"Smart Bottle 070","South Regional Warehouse",18,80,62
+71,"Essential Chair 071","North Distribution Warehouse",27,95,68
+71,"Essential Chair 071","South Regional Warehouse",26,95,69
+72,"Essential Monitor 072","Central Warehouse",14,51,37
+72,"Essential Monitor 072","North Distribution Warehouse",36,51,15
+72,"Essential Monitor 072","South Regional Warehouse",27,51,24
+73,"Eco Mixer 073","North Distribution Warehouse",50,66,16
+73,"Eco Mixer 073","South Regional Warehouse",44,66,22
+74,"Digital Desk 074","South Regional Warehouse",31,37,6
+76,"Classic Storage Box 076","Central Warehouse",37,71,34
+76,"Classic Storage Box 076","North Distribution Warehouse",21,71,50
+76,"Classic Storage Box 076","South Regional Warehouse",36,71,35
+77,"Essential Laptop 077","Central Warehouse",68,101,33
+77,"Essential Laptop 077","North Distribution Warehouse",14,101,87
+77,"Essential Laptop 077","South Regional Warehouse",83,101,18
+78,"Digital Router 078","Central Warehouse",52,71,19
+78,"Digital Router 078","North Distribution Warehouse",39,71,32
+78,"Digital Router 078","South Regional Warehouse",27,71,44
+79,"Advanced Laptop 079","Central Warehouse",31,36,5
+80,"Premium Speaker 080","Central Warehouse",30,86,56
+80,"Premium Speaker 080","North Distribution Warehouse",63,86,23
+80,"Premium Speaker 080","South Regional Warehouse",65,86,21
+81,"Eco Blender 081","Central Warehouse",17,112,95
+81,"Eco Blender 081","North Distribution Warehouse",68,112,44
+82,"Smart Blender 082","North Distribution Warehouse",12,36,24
+83,"Digital Keyboard 083","Central Warehouse",11,46,35
+84,"Premium Fan 084","Central Warehouse",27,115,88
+84,"Premium Fan 084","North Distribution Warehouse",8,115,107
+84,"Premium Fan 084","South Regional Warehouse",23,115,92
+85,"Premium Storage Box 085","Central Warehouse",39,88,49
+85,"Premium Storage Box 085","North Distribution Warehouse",11,88,77
+85,"Premium Storage Box 085","South Regional Warehouse",42,88,46
+86,"Classic Printer 086","Central Warehouse",38,41,3
+87,"Advanced Storage Box 087","Central Warehouse",21,114,93
+87,"Advanced Storage Box 087","North Distribution Warehouse",23,114,91
+87,"Advanced Storage Box 087","South Regional Warehouse",46,114,68
+88,"Classic Bottle 088","Central Warehouse",27,71,44
+88,"Classic Bottle 088","South Regional Warehouse",45,71,26
+91,"Essential Desk 091","Central Warehouse",33,110,77
+91,"Essential Desk 091","North Distribution Warehouse",67,110,43
+91,"Essential Desk 091","South Regional Warehouse",36,110,74
+92,"Eco Lamp 092","Central Warehouse",36,90,54
+92,"Eco Lamp 092","North Distribution Warehouse",18,90,72
+92,"Eco Lamp 092","South Regional Warehouse",25,90,65
+94,"Essential Camera 094","Central Warehouse",41,63,22
+94,"Essential Camera 094","North Distribution Warehouse",53,63,10
+94,"Essential Camera 094","South Regional Warehouse",39,63,24
+95,"Premium Blender 095","Central Warehouse",24,105,81
+95,"Premium Blender 095","North Distribution Warehouse",85,105,20
+95,"Premium Blender 095","South Regional Warehouse",72,105,33
+96,"Ultra Keyboard 096","Central Warehouse",10,28,18
+96,"Ultra Keyboard 096","South Regional Warehouse",23,28,5
+97,"Pro Laptop 097","Central Warehouse",33,62,29
+97,"Pro Laptop 097","North Distribution Warehouse",27,62,35
+97,"Pro Laptop 097","South Regional Warehouse",43,62,19
+98,"Digital Storage Box 098","Central Warehouse",34,41,7
+98,"Digital Storage Box 098","North Distribution Warehouse",34,41,7
+99,"Ultra Tool Kit 099","Central Warehouse",67,77,10
+99,"Ultra Tool Kit 099","North Distribution Warehouse",26,77,51
+99,"Ultra Tool Kit 099","South Regional Warehouse",29,77,48
+100,"Ultra Laptop 100","Central Warehouse",64,65,1
+100,"Ultra Laptop 100","North Distribution Warehouse",64,65,1
+100,"Ultra Laptop 100","South Regional Warehouse",28,65,37
+101,"Premium Mouse 101","Central Warehouse",37,47,10
+101,"Premium Mouse 101","South Regional Warehouse",28,47,19
+102,"Ultra Keyboard 102","North Distribution Warehouse",102,107,5
+105,"Ultra Bottle 105","North Distribution Warehouse",43,68,25
+106,"Advanced Desk 106","Central Warehouse",48,102,54
+106,"Advanced Desk 106","North Distribution Warehouse",83,102,19
+106,"Advanced Desk 106","South Regional Warehouse",30,102,72
+107,"Essential Printer 107","Central Warehouse",25,68,43
+107,"Essential Printer 107","South Regional Warehouse",61,68,7
+108,"Digital Tool Kit 108","Central Warehouse",53,99,46
+108,"Digital Tool Kit 108","North Distribution Warehouse",34,99,65
+109,"Advanced Blender 109","Central Warehouse",19,28,9
+109,"Advanced Blender 109","North Distribution Warehouse",18,28,10
+110,"Advanced Backpack 110","North Distribution Warehouse",58,80,22
+110,"Advanced Backpack 110","South Regional Warehouse",36,80,44
+112,"Premium Backpack 112","Central Warehouse",12,48,36
+112,"Premium Backpack 112","North Distribution Warehouse",32,48,16
+112,"Premium Backpack 112","South Regional Warehouse",31,48,17
+113,"Pro Backpack 113","North Distribution Warehouse",6,10,4
+114,"Compact Camera 114","Central Warehouse",36,66,30
+115,"Smart Monitor 115","North Distribution Warehouse",13,32,19
+115,"Smart Monitor 115","South Regional Warehouse",29,32,3
+116,"Smart Lamp 116","Central Warehouse",31,51,20
+116,"Smart Lamp 116","North Distribution Warehouse",16,51,35
+117,"Pro Monitor 117","Central Warehouse",15,25,10
+118,"Ultra Desk 118","Central Warehouse",33,69,36
+118,"Ultra Desk 118","North Distribution Warehouse",57,69,12
+118,"Ultra Desk 118","South Regional Warehouse",42,69,27
+121,"Compact Chair 121","North Distribution Warehouse",22,41,19
+123,"Ultra Keyboard 123","North Distribution Warehouse",24,28,4
+125,"Premium Mouse 125","Central Warehouse",58,63,5
+125,"Premium Mouse 125","North Distribution Warehouse",49,63,14
+126,"Essential Laptop 126","North Distribution Warehouse",14,33,19
+127,"Premium Blender 127","North Distribution Warehouse",68,81,13
+127,"Premium Blender 127","South Regional Warehouse",34,81,47
+128,"Classic Backpack 128","North Distribution Warehouse",72,113,41
+129,"Advanced Fan 129","North Distribution Warehouse",63,108,45
+129,"Advanced Fan 129","South Regional Warehouse",28,108,80
+130,"Ultra Lamp 130","Central Warehouse",43,98,55
+130,"Ultra Lamp 130","North Distribution Warehouse",37,98,61
+130,"Ultra Lamp 130","South Regional Warehouse",17,98,81
+131,"Smart Chair 131","Central Warehouse",72,102,30
+131,"Smart Chair 131","South Regional Warehouse",35,102,67
+132,"Compact Laptop 132","North Distribution Warehouse",13,119,106
+132,"Compact Laptop 132","South Regional Warehouse",98,119,21
+133,"Compact Bottle 133","North Distribution Warehouse",38,63,25
+133,"Compact Bottle 133","South Regional Warehouse",38,63,25
+134,"Advanced Headphones 134","North Distribution Warehouse",65,70,5
+134,"Advanced Headphones 134","South Regional Warehouse",9,70,61
+135,"Compact Storage Box 135","Central Warehouse",23,42,19
+135,"Compact Storage Box 135","South Regional Warehouse",16,42,26
+136,"Advanced Printer 136","North Distribution Warehouse",16,23,7
+141,"Smart Mouse 141","Central Warehouse",42,95,53
+141,"Smart Mouse 141","North Distribution Warehouse",33,95,62
+142,"Digital Fan 142","North Distribution Warehouse",70,119,49
+142,"Digital Fan 142","South Regional Warehouse",104,119,15
+143,"Essential Mixer 143","Central Warehouse",17,111,94
+143,"Essential Mixer 143","North Distribution Warehouse",13,111,98
+144,"Classic Mouse 144","Central Warehouse",40,63,23
+144,"Classic Mouse 144","South Regional Warehouse",26,63,37
+145,"Essential Keyboard 145","North Distribution Warehouse",14,36,22
+145,"Essential Keyboard 145","South Regional Warehouse",15,36,21
+146,"Classic Keyboard 146","North Distribution Warehouse",6,39,33
+147,"Digital Keyboard 147","Central Warehouse",41,73,32
+147,"Digital Keyboard 147","North Distribution Warehouse",25,73,48
+147,"Digital Keyboard 147","South Regional Warehouse",38,73,35
+148,"Ultra Lamp 148","Central Warehouse",23,70,47
+150,"Ultra Tool Kit 150","South Regional Warehouse",35,58,23
+151,"Digital Mouse 151","Central Warehouse",45,53,8
+151,"Digital Mouse 151","North Distribution Warehouse",41,53,12
+151,"Digital Mouse 151","South Regional Warehouse",13,53,40
+152,"Digital Keyboard 152","North Distribution Warehouse",25,102,77
+152,"Digital Keyboard 152","South Regional Warehouse",25,102,77
+154,"Digital Mixer 154","Central Warehouse",10,114,104
+154,"Digital Mixer 154","North Distribution Warehouse",22,114,92
+154,"Digital Mixer 154","South Regional Warehouse",61,114,53
+155,"Pro Bottle 155","North Distribution Warehouse",17,102,85
+155,"Pro Bottle 155","South Regional Warehouse",16,102,86
+156,"Ultra Router 156","Central Warehouse",14,62,48
+156,"Ultra Router 156","North Distribution Warehouse",13,62,49
+157,"Ultra Bottle 157","North Distribution Warehouse",51,69,18
+157,"Ultra Bottle 157","South Regional Warehouse",31,69,38
+158,"Compact Printer 158","North Distribution Warehouse",50,72,22
+159,"Eco Camera 159","Central Warehouse",30,41,11
+159,"Eco Camera 159","South Regional Warehouse",17,41,24
+160,"Pro Keyboard 160","Central Warehouse",71,76,5
+160,"Pro Keyboard 160","North Distribution Warehouse",51,76,25
+160,"Pro Keyboard 160","South Regional Warehouse",22,76,54
+161,"Smart Camera 161","Central Warehouse",23,34,11
+162,"Digital Tool Kit 162","Central Warehouse",38,63,25
+162,"Digital Tool Kit 162","North Distribution Warehouse",47,63,16
+162,"Digital Tool Kit 162","South Regional Warehouse",60,63,3
+163,"Premium Keyboard 163","Central Warehouse",49,113,64
+163,"Premium Keyboard 163","North Distribution Warehouse",12,113,101
+163,"Premium Keyboard 163","South Regional Warehouse",61,113,52
+164,"Essential Desk 164","Central Warehouse",9,41,32
+164,"Essential Desk 164","North Distribution Warehouse",25,41,16
+165,"Essential Bottle 165","North Distribution Warehouse",24,32,8
+165,"Essential Bottle 165","South Regional Warehouse",31,32,1
+166,"Classic Speaker 166","Central Warehouse",28,36,8
+167,"Premium Blender 167","Central Warehouse",73,99,26
+167,"Premium Blender 167","North Distribution Warehouse",30,99,69
+167,"Premium Blender 167","South Regional Warehouse",59,99,40
+168,"Pro Headphones 168","South Regional Warehouse",36,42,6
+169,"Classic Camera 169","Central Warehouse",51,57,6
+170,"Essential Headphones 170","North Distribution Warehouse",21,51,30
+170,"Essential Headphones 170","South Regional Warehouse",32,51,19
+171,"Digital Mixer 171","Central Warehouse",13,108,95
+171,"Digital Mixer 171","North Distribution Warehouse",89,108,19
+171,"Digital Mixer 171","South Regional Warehouse",34,108,74
+172,"Smart Storage Box 172","North Distribution Warehouse",28,33,5
+174,"Classic Bottle 174","South Regional Warehouse",33,54,21
+175,"Premium Monitor 175","Central Warehouse",14,17,3
+175,"Premium Monitor 175","South Regional Warehouse",16,17,1
+177,"Eco Headphones 177","Central Warehouse",9,96,87
+178,"Digital Desk 178","Central Warehouse",102,107,5
+178,"Digital Desk 178","North Distribution Warehouse",8,107,99
+179,"Pro Desk 179","Central Warehouse",46,96,50
+179,"Pro Desk 179","North Distribution Warehouse",37,96,59
+179,"Pro Desk 179","South Regional Warehouse",62,96,34
+180,"Eco Mixer 180","Central Warehouse",20,60,40
+180,"Eco Mixer 180","North Distribution Warehouse",44,60,16
+181,"Advanced Bottle 181","Central Warehouse",71,72,1
+181,"Advanced Bottle 181","North Distribution Warehouse",46,72,26
+181,"Advanced Bottle 181","South Regional Warehouse",47,72,25
+182,"Smart Keyboard 182","Central Warehouse",18,31,13
+182,"Smart Keyboard 182","South Regional Warehouse",13,31,18
+183,"Compact Bottle 183","North Distribution Warehouse",8,95,87
+183,"Compact Bottle 183","South Regional Warehouse",84,95,11
+184,"Smart Laptop 184","South Regional Warehouse",47,51,4
+185,"Pro Printer 185","North Distribution Warehouse",39,63,24
+185,"Pro Printer 185","South Regional Warehouse",18,63,45
+186,"Eco Chair 186","North Distribution Warehouse",41,110,69
+186,"Eco Chair 186","South Regional Warehouse",15,110,95
+187,"Advanced Storage Box 187","Central Warehouse",31,62,31
+187,"Advanced Storage Box 187","North Distribution Warehouse",32,62,30
+188,"Compact Storage Box 188","North Distribution Warehouse",66,117,51
+188,"Compact Storage Box 188","South Regional Warehouse",52,117,65
+189,"Smart Monitor 189","South Regional Warehouse",54,77,23
+190,"Premium Printer 190","Central Warehouse",31,105,74
+190,"Premium Printer 190","North Distribution Warehouse",56,105,49
+190,"Premium Printer 190","South Regional Warehouse",42,105,63
+191,"Essential Mouse 191","Central Warehouse",47,56,9
+191,"Essential Mouse 191","South Regional Warehouse",29,56,27
+192,"Pro Tool Kit 192","South Regional Warehouse",27,49,22
+194,"Compact Printer 194","Central Warehouse",106,115,9
+194,"Compact Printer 194","North Distribution Warehouse",21,115,94
+194,"Compact Printer 194","South Regional Warehouse",47,115,68
+196,"Pro Mouse 196","South Regional Warehouse",19,28,9
+197,"Pro Desk 197","Central Warehouse",51,64,13
+197,"Pro Desk 197","North Distribution Warehouse",54,64,10
+197,"Pro Desk 197","South Regional Warehouse",13,64,51
+198,"Ultra Monitor 198","Central Warehouse",59,99,40
+198,"Ultra Monitor 198","South Regional Warehouse",22,99,77
+200,"Compact Charger 200","South Regional Warehouse",19,21,2
+201,"Classic Blender 201","Central Warehouse",31,67,36
+201,"Classic Blender 201","North Distribution Warehouse",28,67,39
+201,"Classic Blender 201","South Regional Warehouse",42,67,25
+202,"Classic Chair 202","North Distribution Warehouse",16,43,27
+203,"Compact Laptop 203","Central Warehouse",20,57,37
+203,"Compact Laptop 203","North Distribution Warehouse",25,57,32
+204,"Classic Router 204","Central Warehouse",18,118,100
+204,"Classic Router 204","North Distribution Warehouse",77,118,41
+204,"Classic Router 204","South Regional Warehouse",16,118,102
+205,"Compact Blender 205","North Distribution Warehouse",13,25,12
+206,"Eco Chair 206","South Regional Warehouse",32,73,41
+208,"Smart Fan 208","Central Warehouse",36,76,40
+208,"Smart Fan 208","North Distribution Warehouse",25,76,51
+209,"Ultra Desk 209","South Regional Warehouse",12,25,13
+210,"Advanced Speaker 210","Central Warehouse",17,95,78
+210,"Advanced Speaker 210","South Regional Warehouse",13,95,82
+211,"Eco Blender 211","North Distribution Warehouse",38,87,49
+211,"Eco Blender 211","South Regional Warehouse",30,87,57
+212,"Ultra Laptop 212","Central Warehouse",52,56,4
+212,"Ultra Laptop 212","North Distribution Warehouse",16,56,40
+213,"Ultra Lamp 213","North Distribution Warehouse",85,119,34
+213,"Ultra Lamp 213","South Regional Warehouse",37,119,82
+214,"Pro Bottle 214","Central Warehouse",14,78,64
+214,"Pro Bottle 214","North Distribution Warehouse",14,78,64
+214,"Pro Bottle 214","South Regional Warehouse",16,78,62
+215,"Premium Bottle 215","Central Warehouse",44,99,55
+215,"Premium Bottle 215","North Distribution Warehouse",48,99,51
+215,"Premium Bottle 215","South Regional Warehouse",85,99,14
+216,"Pro Mixer 216","Central Warehouse",11,94,83
+216,"Pro Mixer 216","South Regional Warehouse",75,94,19
+217,"Compact Storage Box 217","Central Warehouse",34,42,8
+217,"Compact Storage Box 217","North Distribution Warehouse",18,42,24
+218,"Pro Laptop 218","Central Warehouse",35,110,75
+218,"Pro Laptop 218","North Distribution Warehouse",44,110,66
+218,"Pro Laptop 218","South Regional Warehouse",59,110,51
+220,"Classic Tool Kit 220","Central Warehouse",79,109,30
+220,"Classic Tool Kit 220","North Distribution Warehouse",79,109,30
+220,"Classic Tool Kit 220","South Regional Warehouse",18,109,91
+221,"Eco Mouse 221","Central Warehouse",37,104,67
+221,"Eco Mouse 221","North Distribution Warehouse",33,104,71
+221,"Eco Mouse 221","South Regional Warehouse",61,104,43
+224,"Pro Backpack 224","Central Warehouse",14,118,104
+224,"Pro Backpack 224","North Distribution Warehouse",17,118,101
+224,"Pro Backpack 224","South Regional Warehouse",26,118,92
+227,"Digital Desk 227","Central Warehouse",10,41,31
+227,"Digital Desk 227","South Regional Warehouse",6,41,35
+229,"Compact Laptop 229","South Regional Warehouse",26,44,18
+230,"Essential Storage Box 230","South Regional Warehouse",30,42,12
+231,"Ultra Speaker 231","Central Warehouse",32,52,20
+231,"Ultra Speaker 231","North Distribution Warehouse",29,52,23
+231,"Ultra Speaker 231","South Regional Warehouse",47,52,5
+232,"Compact Keyboard 232","Central Warehouse",67,76,9
+232,"Compact Keyboard 232","North Distribution Warehouse",49,76,27
+233,"Pro Charger 233","Central Warehouse",10,49,39
+233,"Pro Charger 233","North Distribution Warehouse",37,49,12
+233,"Pro Charger 233","South Regional Warehouse",20,49,29
+234,"Pro Monitor 234","South Regional Warehouse",40,53,13
+237,"Pro Lamp 237","North Distribution Warehouse",21,44,23
+238,"Eco Storage Box 238","Central Warehouse",31,99,68
+238,"Eco Storage Box 238","North Distribution Warehouse",12,99,87
+239,"Classic Desk 239","North Distribution Warehouse",9,35,26
+239,"Classic Desk 239","South Regional Warehouse",29,35,6
+240,"Compact Lamp 240","Central Warehouse",28,43,15
+240,"Compact Lamp 240","South Regional Warehouse",41,43,2
+241,"Classic Charger 241","Central Warehouse",14,16,2
+242,"Digital Headphones 242","Central Warehouse",36,118,82
+242,"Digital Headphones 242","North Distribution Warehouse",25,118,93
+242,"Digital Headphones 242","South Regional Warehouse",29,118,89
+243,"Compact Storage Box 243","South Regional Warehouse",17,45,28
+244,"Smart Headphones 244","North Distribution Warehouse",25,45,20
+244,"Smart Headphones 244","South Regional Warehouse",26,45,19
+245,"Eco Desk 245","Central Warehouse",64,82,18
+245,"Eco Desk 245","North Distribution Warehouse",20,82,62
+245,"Eco Desk 245","South Regional Warehouse",63,82,19
+246,"Compact Tool Kit 246","Central Warehouse",77,108,31
+246,"Compact Tool Kit 246","North Distribution Warehouse",32,108,76
+247,"Digital Router 247","Central Warehouse",17,45,28
+247,"Digital Router 247","South Regional Warehouse",10,45,35
+248,"Advanced Camera 248","North Distribution Warehouse",32,112,80
+248,"Advanced Camera 248","South Regional Warehouse",18,112,94
+249,"Advanced Desk 249","North Distribution Warehouse",20,32,12
+250,"Essential Fan 250","North Distribution Warehouse",21,46,25
+251,"Classic Keyboard 251","Central Warehouse",14,64,50
+251,"Classic Keyboard 251","South Regional Warehouse",61,64,3
+252,"Eco Mixer 252","North Distribution Warehouse",40,98,58
+252,"Eco Mixer 252","South Regional Warehouse",32,98,66
+253,"Digital Router 253","North Distribution Warehouse",16,39,23
+253,"Digital Router 253","South Regional Warehouse",12,39,27
+254,"Premium Blender 254","Central Warehouse",44,71,27
+254,"Premium Blender 254","North Distribution Warehouse",33,71,38
+254,"Premium Blender 254","South Regional Warehouse",67,71,4
+255,"Eco Blender 255","North Distribution Warehouse",66,98,32
+255,"Eco Blender 255","South Regional Warehouse",95,98,3
+256,"Ultra Printer 256","Central Warehouse",56,68,12
+256,"Ultra Printer 256","North Distribution Warehouse",64,68,4
+256,"Ultra Printer 256","South Regional Warehouse",40,68,28
+257,"Smart Mouse 257","Central Warehouse",63,109,46
+257,"Smart Mouse 257","North Distribution Warehouse",50,109,59
+257,"Smart Mouse 257","South Regional Warehouse",57,109,52
+258,"Ultra Fan 258","Central Warehouse",39,114,75
+258,"Ultra Fan 258","North Distribution Warehouse",81,114,33
+258,"Ultra Fan 258","South Regional Warehouse",26,114,88
+260,"Advanced Backpack 260","Central Warehouse",8,87,79
+260,"Advanced Backpack 260","North Distribution Warehouse",58,87,29
+260,"Advanced Backpack 260","South Regional Warehouse",36,87,51
+261,"Digital Desk 261","North Distribution Warehouse",40,61,21
+261,"Digital Desk 261","South Regional Warehouse",28,61,33
+263,"Compact Blender 263","Central Warehouse",7,108,101
+263,"Compact Blender 263","North Distribution Warehouse",51,108,57
+263,"Compact Blender 263","South Regional Warehouse",53,108,55
+264,"Classic Laptop 264","Central Warehouse",44,61,17
+264,"Classic Laptop 264","North Distribution Warehouse",28,61,33
+265,"Premium Backpack 265","North Distribution Warehouse",8,109,101
+265,"Premium Backpack 265","South Regional Warehouse",24,109,85
+267,"Essential Camera 267","Central Warehouse",26,118,92
+267,"Essential Camera 267","North Distribution Warehouse",76,118,42
+267,"Essential Camera 267","South Regional Warehouse",38,118,80
+268,"Smart Storage Box 268","Central Warehouse",40,67,27
+268,"Smart Storage Box 268","North Distribution Warehouse",43,67,24
+269,"Ultra Monitor 269","Central Warehouse",35,104,69
+269,"Ultra Monitor 269","North Distribution Warehouse",74,104,30
+269,"Ultra Monitor 269","South Regional Warehouse",42,104,62
+270,"Advanced Printer 270","Central Warehouse",20,44,24
+270,"Advanced Printer 270","North Distribution Warehouse",43,44,1
+270,"Advanced Printer 270","South Regional Warehouse",20,44,24
+271,"Advanced Mixer 271","Central Warehouse",46,116,70
+271,"Advanced Mixer 271","North Distribution Warehouse",83,116,33
+271,"Advanced Mixer 271","South Regional Warehouse",19,116,97
+272,"Essential Charger 272","Central Warehouse",58,85,27
+272,"Essential Charger 272","North Distribution Warehouse",24,85,61
+272,"Essential Charger 272","South Regional Warehouse",52,85,33
+273,"Pro Camera 273","North Distribution Warehouse",9,67,58
+273,"Pro Camera 273","South Regional Warehouse",19,67,48
+274,"Digital Mixer 274","Central Warehouse",33,111,78
+274,"Digital Mixer 274","North Distribution Warehouse",56,111,55
+274,"Digital Mixer 274","South Regional Warehouse",39,111,72
+275,"Compact Storage Box 275","South Regional Warehouse",18,22,4
+277,"Advanced Camera 277","North Distribution Warehouse",74,75,1
+277,"Advanced Camera 277","South Regional Warehouse",59,75,16
+278,"Eco Blender 278","South Regional Warehouse",24,46,22
+279,"Eco Mixer 279","North Distribution Warehouse",12,17,5
+280,"Advanced Blender 280","Central Warehouse",56,74,18
+280,"Advanced Blender 280","North Distribution Warehouse",28,74,46
+280,"Advanced Blender 280","South Regional Warehouse",54,74,20
+282,"Premium Headphones 282","Central Warehouse",22,98,76
+282,"Premium Headphones 282","South Regional Warehouse",30,98,68
+284,"Pro Router 284","Central Warehouse",23,40,17
+284,"Pro Router 284","North Distribution Warehouse",39,40,1
+285,"Essential Keyboard 285","Central Warehouse",52,117,65
+285,"Essential Keyboard 285","North Distribution Warehouse",18,117,99
+285,"Essential Keyboard 285","South Regional Warehouse",69,117,48
+286,"Classic Printer 286","Central Warehouse",79,100,21
+286,"Classic Printer 286","North Distribution Warehouse",34,100,66
+286,"Classic Printer 286","South Regional Warehouse",70,100,30
+287,"Ultra Lamp 287","South Regional Warehouse",16,28,12
+288,"Classic Desk 288","South Regional Warehouse",69,76,7
+289,"Premium Backpack 289","North Distribution Warehouse",90,101,11
+289,"Premium Backpack 289","South Regional Warehouse",74,101,27
+290,"Compact Router 290","Central Warehouse",8,29,21
+291,"Essential Camera 291","Central Warehouse",56,70,14
+291,"Essential Camera 291","North Distribution Warehouse",56,70,14
+293,"Ultra Backpack 293","Central Warehouse",53,86,33
+293,"Ultra Backpack 293","North Distribution Warehouse",3,86,83
+293,"Ultra Backpack 293","South Regional Warehouse",36,86,50
+294,"Compact Tool Kit 294","Central Warehouse",22,72,50
+294,"Compact Tool Kit 294","South Regional Warehouse",71,72,1
+295,"Smart Tool Kit 295","Central Warehouse",31,34,3
+295,"Smart Tool Kit 295","South Regional Warehouse",33,34,1
+296,"Compact Fan 296","Central Warehouse",32,47,15
+296,"Compact Fan 296","North Distribution Warehouse",15,47,32
+296,"Compact Fan 296","South Regional Warehouse",12,47,35
+297,"Smart Speaker 297","Central Warehouse",45,67,22
+297,"Smart Speaker 297","South Regional Warehouse",29,67,38
+298,"Eco Lamp 298","South Regional Warehouse",21,41,20
+299,"Compact Storage Box 299","Central Warehouse",44,56,12
+299,"Compact Storage Box 299","North Distribution Warehouse",27,56,29
+300,"Essential Charger 300","North Distribution Warehouse",21,94,73
+300,"Essential Charger 300","South Regional Warehouse",59,94,35
+301,"Ultra Fan 301","Central Warehouse",99,110,11
+301,"Ultra Fan 301","North Distribution Warehouse",84,110,26
+301,"Ultra Fan 301","South Regional Warehouse",47,110,63
+302,"Ultra Bottle 302","North Distribution Warehouse",22,28,6
+303,"Compact Fan 303","Central Warehouse",23,27,4
+304,"Smart Lamp 304","Central Warehouse",39,58,19
+305,"Pro Lamp 305","Central Warehouse",22,40,18
+306,"Classic Camera 306","Central Warehouse",19,63,44
+306,"Classic Camera 306","North Distribution Warehouse",16,63,47
+306,"Classic Camera 306","South Regional Warehouse",44,63,19
+308,"Essential Laptop 308","Central Warehouse",46,84,38
+308,"Essential Laptop 308","North Distribution Warehouse",65,84,19
+308,"Essential Laptop 308","South Regional Warehouse",23,84,61
+309,"Compact Tool Kit 309","South Regional Warehouse",61,105,44
+310,"Digital Laptop 310","Central Warehouse",51,111,60
+310,"Digital Laptop 310","North Distribution Warehouse",32,111,79
+310,"Digital Laptop 310","South Regional Warehouse",66,111,45
+311,"Premium Backpack 311","Central Warehouse",26,37,11
+311,"Premium Backpack 311","North Distribution Warehouse",8,37,29
+311,"Premium Backpack 311","South Regional Warehouse",5,37,32
+312,"Classic Camera 312","Central Warehouse",24,101,77
+312,"Classic Camera 312","North Distribution Warehouse",50,101,51
+312,"Classic Camera 312","South Regional Warehouse",57,101,44
+314,"Eco Lamp 314","Central Warehouse",21,59,38
+314,"Eco Lamp 314","North Distribution Warehouse",42,59,17
+315,"Pro Desk 315","Central Warehouse",21,110,89
+315,"Pro Desk 315","North Distribution Warehouse",21,110,89
+315,"Pro Desk 315","South Regional Warehouse",20,110,90
+316,"Advanced Router 316","Central Warehouse",10,73,63
+316,"Advanced Router 316","North Distribution Warehouse",31,73,42
+317,"Pro Lamp 317","Central Warehouse",50,72,22
+317,"Pro Lamp 317","North Distribution Warehouse",39,72,33
+317,"Pro Lamp 317","South Regional Warehouse",49,72,23
+318,"Eco Backpack 318","Central Warehouse",30,42,12
+318,"Eco Backpack 318","North Distribution Warehouse",10,42,32
+319,"Eco Keyboard 319","North Distribution Warehouse",25,86,61
+319,"Eco Keyboard 319","South Regional Warehouse",39,86,47
+320,"Advanced Laptop 320","Central Warehouse",37,38,1
+321,"Essential Mouse 321","North Distribution Warehouse",33,44,11
+322,"Pro Blender 322","North Distribution Warehouse",60,91,31
+322,"Pro Blender 322","South Regional Warehouse",44,91,47
+323,"Premium Mouse 323","Central Warehouse",62,78,16
+323,"Premium Mouse 323","North Distribution Warehouse",26,78,52
+323,"Premium Mouse 323","South Regional Warehouse",29,78,49
+324,"Smart Blender 324","Central Warehouse",20,75,55
+324,"Smart Blender 324","North Distribution Warehouse",56,75,19
+324,"Smart Blender 324","South Regional Warehouse",40,75,35
+325,"Ultra Laptop 325","Central Warehouse",24,39,15
+326,"Digital Printer 326","North Distribution Warehouse",95,118,23
+326,"Digital Printer 326","South Regional Warehouse",8,118,110
+327,"Ultra Printer 327","South Regional Warehouse",16,42,26
+329,"Digital Desk 329","North Distribution Warehouse",23,58,35
+329,"Digital Desk 329","South Regional Warehouse",38,58,20
+331,"Pro Chair 331","Central Warehouse",23,95,72
+331,"Pro Chair 331","North Distribution Warehouse",94,95,1
+331,"Pro Chair 331","South Regional Warehouse",35,95,60
+332,"Digital Charger 332","Central Warehouse",52,58,6
+332,"Digital Charger 332","North Distribution Warehouse",47,58,11
+332,"Digital Charger 332","South Regional Warehouse",43,58,15
+333,"Premium Chair 333","Central Warehouse",44,107,63
+333,"Premium Chair 333","South Regional Warehouse",84,107,23
+335,"Digital Laptop 335","Central Warehouse",58,64,6
+335,"Digital Laptop 335","North Distribution Warehouse",23,64,41
+335,"Digital Laptop 335","South Regional Warehouse",30,64,34
+336,"Eco Tool Kit 336","Central Warehouse",26,90,64
+336,"Eco Tool Kit 336","North Distribution Warehouse",47,90,43
+336,"Eco Tool Kit 336","South Regional Warehouse",72,90,18
+338,"Ultra Keyboard 338","Central Warehouse",48,62,14
+338,"Ultra Keyboard 338","North Distribution Warehouse",17,62,45
+338,"Ultra Keyboard 338","South Regional Warehouse",22,62,40
+339,"Digital Blender 339","North Distribution Warehouse",31,62,31
+339,"Digital Blender 339","South Regional Warehouse",24,62,38
+340,"Premium Headphones 340","Central Warehouse",9,83,74
+340,"Premium Headphones 340","North Distribution Warehouse",24,83,59
+340,"Premium Headphones 340","South Regional Warehouse",38,83,45
+341,"Digital Monitor 341","Central Warehouse",16,94,78
+341,"Digital Monitor 341","North Distribution Warehouse",36,94,58
+342,"Digital Mouse 342","Central Warehouse",26,119,93
+342,"Digital Mouse 342","North Distribution Warehouse",22,119,97
+342,"Digital Mouse 342","South Regional Warehouse",19,119,100
+343,"Pro Storage Box 343","Central Warehouse",18,54,36
+343,"Pro Storage Box 343","South Regional Warehouse",46,54,8
+344,"Compact Speaker 344","South Regional Warehouse",11,71,60
+345,"Premium Mixer 345","Central Warehouse",59,113,54
+345,"Premium Mixer 345","North Distribution Warehouse",19,113,94
+345,"Premium Mixer 345","South Regional Warehouse",80,113,33
+346,"Pro Laptop 346","Central Warehouse",36,101,65
+346,"Pro Laptop 346","North Distribution Warehouse",45,101,56
+346,"Pro Laptop 346","South Regional Warehouse",17,101,84
+347,"Compact Fan 347","Central Warehouse",32,48,16
+347,"Compact Fan 347","North Distribution Warehouse",47,48,1
+348,"Premium Backpack 348","Central Warehouse",24,43,19
+348,"Premium Backpack 348","North Distribution Warehouse",29,43,14
+351,"Classic Mixer 351","Central Warehouse",59,117,58
+351,"Classic Mixer 351","North Distribution Warehouse",25,117,92
+351,"Classic Mixer 351","South Regional Warehouse",30,117,87
+352,"Eco Charger 352","Central Warehouse",67,103,36
+352,"Eco Charger 352","North Distribution Warehouse",55,103,48
+352,"Eco Charger 352","South Regional Warehouse",42,103,61
+353,"Essential Fan 353","Central Warehouse",17,26,9
+353,"Essential Fan 353","North Distribution Warehouse",20,26,6
+354,"Advanced Backpack 354","North Distribution Warehouse",19,56,37
+354,"Advanced Backpack 354","South Regional Warehouse",23,56,33
+355,"Digital Bottle 355","Central Warehouse",49,110,61
+355,"Digital Bottle 355","North Distribution Warehouse",48,110,62
+355,"Digital Bottle 355","South Regional Warehouse",13,110,97
+356,"Pro Blender 356","Central Warehouse",50,75,25
+356,"Pro Blender 356","North Distribution Warehouse",28,75,47
+357,"Premium Bottle 357","Central Warehouse",53,112,59
+357,"Premium Bottle 357","North Distribution Warehouse",61,112,51
+357,"Premium Bottle 357","South Regional Warehouse",62,112,50
+358,"Advanced Blender 358","Central Warehouse",17,107,90
+358,"Advanced Blender 358","South Regional Warehouse",13,107,94
+359,"Advanced Tool Kit 359","Central Warehouse",81,107,26
+359,"Advanced Tool Kit 359","North Distribution Warehouse",71,107,36
+359,"Advanced Tool Kit 359","South Regional Warehouse",31,107,76
+360,"Digital Lamp 360","Central Warehouse",73,88,15
+360,"Digital Lamp 360","North Distribution Warehouse",35,88,53
+360,"Digital Lamp 360","South Regional Warehouse",26,88,62
+361,"Pro Laptop 361","Central Warehouse",63,72,9
+361,"Pro Laptop 361","North Distribution Warehouse",21,72,51
+361,"Pro Laptop 361","South Regional Warehouse",37,72,35
+362,"Advanced Router 362","Central Warehouse",28,47,19
+362,"Advanced Router 362","North Distribution Warehouse",34,47,13
+363,"Classic Fan 363","Central Warehouse",28,88,60
+363,"Classic Fan 363","North Distribution Warehouse",38,88,50
+363,"Classic Fan 363","South Regional Warehouse",30,88,58
+364,"Ultra Speaker 364","North Distribution Warehouse",57,115,58
+364,"Ultra Speaker 364","South Regional Warehouse",52,115,63
+366,"Eco Charger 366","North Distribution Warehouse",13,19,6
+366,"Eco Charger 366","South Regional Warehouse",15,19,4
+367,"Eco Storage Box 367","Central Warehouse",29,83,54
+367,"Eco Storage Box 367","North Distribution Warehouse",16,83,67
+367,"Eco Storage Box 367","South Regional Warehouse",37,83,46
+368,"Smart Mixer 368","Central Warehouse",20,93,73
+368,"Smart Mixer 368","North Distribution Warehouse",41,93,52
+369,"Ultra Keyboard 369","North Distribution Warehouse",35,43,8
+370,"Ultra Backpack 370","Central Warehouse",26,75,49
+370,"Ultra Backpack 370","South Regional Warehouse",64,75,11
+371,"Advanced Storage Box 371","Central Warehouse",46,116,70
+371,"Advanced Storage Box 371","North Distribution Warehouse",50,116,66
+372,"Ultra Fan 372","South Regional Warehouse",66,84,18
+373,"Advanced Camera 373","Central Warehouse",14,32,18
+373,"Advanced Camera 373","South Regional Warehouse",12,32,20
+374,"Smart Keyboard 374","Central Warehouse",66,104,38
+374,"Smart Keyboard 374","North Distribution Warehouse",78,104,26
+374,"Smart Keyboard 374","South Regional Warehouse",23,104,81
+375,"Eco Blender 375","South Regional Warehouse",18,25,7
+376,"Compact Blender 376","Central Warehouse",17,113,96
+376,"Compact Blender 376","South Regional Warehouse",48,113,65
+377,"Eco Tool Kit 377","Central Warehouse",29,34,5
+377,"Eco Tool Kit 377","North Distribution Warehouse",12,34,22
+378,"Pro Fan 378","Central Warehouse",26,76,50
+379,"Essential Mixer 379","Central Warehouse",24,41,17
+379,"Essential Mixer 379","North Distribution Warehouse",26,41,15
+380,"Pro Backpack 380","Central Warehouse",41,60,19
+380,"Pro Backpack 380","North Distribution Warehouse",30,60,30
+380,"Pro Backpack 380","South Regional Warehouse",45,60,15
+382,"Pro Camera 382","North Distribution Warehouse",33,51,18
+382,"Pro Camera 382","South Regional Warehouse",23,51,28
+385,"Premium Desk 385","Central Warehouse",24,99,75
+385,"Premium Desk 385","North Distribution Warehouse",59,99,40
+385,"Premium Desk 385","South Regional Warehouse",77,99,22
+386,"Pro Monitor 386","Central Warehouse",26,58,32
+386,"Pro Monitor 386","North Distribution Warehouse",38,58,20
+386,"Pro Monitor 386","South Regional Warehouse",12,58,46
+387,"Essential Chair 387","North Distribution Warehouse",38,54,16
+388,"Ultra Desk 388","South Regional Warehouse",13,35,22
+389,"Advanced Bottle 389","Central Warehouse",15,95,80
+389,"Advanced Bottle 389","North Distribution Warehouse",6,95,89
+389,"Advanced Bottle 389","South Regional Warehouse",29,95,66
+390,"Digital Mixer 390","North Distribution Warehouse",17,103,86
+390,"Digital Mixer 390","South Regional Warehouse",6,103,97
+391,"Digital Headphones 391","South Regional Warehouse",55,57,2
+392,"Premium Desk 392","South Regional Warehouse",11,35,24
+393,"Eco Blender 393","Central Warehouse",15,17,2
+394,"Pro Chair 394","Central Warehouse",41,61,20
+394,"Pro Chair 394","South Regional Warehouse",28,61,33
+395,"Eco Laptop 395","North Distribution Warehouse",29,65,36
+396,"Essential Printer 396","Central Warehouse",47,99,52
+396,"Essential Printer 396","North Distribution Warehouse",32,99,67
+396,"Essential Printer 396","South Regional Warehouse",47,99,52
+397,"Eco Mouse 397","Central Warehouse",35,87,52
+397,"Eco Mouse 397","North Distribution Warehouse",48,87,39
+397,"Eco Mouse 397","South Regional Warehouse",78,87,9
+398,"Smart Storage Box 398","Central Warehouse",41,118,77
+398,"Smart Storage Box 398","North Distribution Warehouse",33,118,85
+398,"Smart Storage Box 398","South Regional Warehouse",19,118,99
+399,"Eco Printer 399","North Distribution Warehouse",58,68,10
+399,"Eco Printer 399","South Regional Warehouse",18,68,50
+402,"Eco Fan 402","Central Warehouse",68,118,50
+402,"Eco Fan 402","North Distribution Warehouse",100,118,18
+402,"Eco Fan 402","South Regional Warehouse",69,118,49
+403,"Advanced Camera 403","Central Warehouse",27,47,20
+405,"Smart Bottle 405","Central Warehouse",104,110,6
+405,"Smart Bottle 405","North Distribution Warehouse",24,110,86
+406,"Advanced Monitor 406","Central Warehouse",20,48,28
+407,"Premium Lamp 407","Central Warehouse",46,112,66
+407,"Premium Lamp 407","South Regional Warehouse",35,112,77
+408,"Advanced Keyboard 408","Central Warehouse",35,53,18
+410,"Classic Printer 410","North Distribution Warehouse",23,77,54
+410,"Classic Printer 410","South Regional Warehouse",41,77,36
+411,"Digital Headphones 411","Central Warehouse",81,114,33
+411,"Digital Headphones 411","North Distribution Warehouse",38,114,76
+411,"Digital Headphones 411","South Regional Warehouse",29,114,85
+412,"Premium Blender 412","Central Warehouse",71,109,38
+412,"Premium Blender 412","South Regional Warehouse",40,109,69
+413,"Premium Storage Box 413","Central Warehouse",39,43,4
+413,"Premium Storage Box 413","North Distribution Warehouse",27,43,16
+413,"Premium Storage Box 413","South Regional Warehouse",35,43,8
+414,"Compact Charger 414","North Distribution Warehouse",47,49,2
+414,"Compact Charger 414","South Regional Warehouse",24,49,25
+415,"Digital Charger 415","Central Warehouse",54,92,38
+415,"Digital Charger 415","South Regional Warehouse",29,92,63
+416,"Ultra Mixer 416","Central Warehouse",16,110,94
+416,"Ultra Mixer 416","South Regional Warehouse",15,110,95
+417,"Compact Camera 417","Central Warehouse",34,35,1
+418,"Advanced Headphones 418","Central Warehouse",42,68,26
+418,"Advanced Headphones 418","South Regional Warehouse",7,68,61
+419,"Digital Backpack 419","Central Warehouse",17,118,101
+419,"Digital Backpack 419","North Distribution Warehouse",46,118,72
+419,"Digital Backpack 419","South Regional Warehouse",33,118,85
+420,"Eco Tool Kit 420","South Regional Warehouse",9,42,33
+421,"Digital Mouse 421","South Regional Warehouse",23,30,7
+423,"Ultra Desk 423","Central Warehouse",54,71,17
+423,"Ultra Desk 423","South Regional Warehouse",22,71,49
+424,"Eco Keyboard 424","Central Warehouse",49,104,55
+424,"Eco Keyboard 424","North Distribution Warehouse",19,104,85
+424,"Eco Keyboard 424","South Regional Warehouse",48,104,56
+426,"Classic Storage Box 426","North Distribution Warehouse",13,40,27
+426,"Classic Storage Box 426","South Regional Warehouse",22,40,18
+427,"Premium Chair 427","Central Warehouse",43,45,2
+427,"Premium Chair 427","North Distribution Warehouse",18,45,27
+429,"Advanced Charger 429","Central Warehouse",6,101,95
+429,"Advanced Charger 429","North Distribution Warehouse",17,101,84
+429,"Advanced Charger 429","South Regional Warehouse",45,101,56
+430,"Advanced Headphones 430","Central Warehouse",50,88,38
+430,"Advanced Headphones 430","North Distribution Warehouse",52,88,36
+430,"Advanced Headphones 430","South Regional Warehouse",24,88,64
+431,"Smart Blender 431","Central Warehouse",44,103,59
+431,"Smart Blender 431","North Distribution Warehouse",60,103,43
+431,"Smart Blender 431","South Regional Warehouse",17,103,86
+432,"Eco Headphones 432","Central Warehouse",49,60,11
+432,"Eco Headphones 432","South Regional Warehouse",30,60,30
+433,"Advanced Keyboard 433","North Distribution Warehouse",31,75,44
+433,"Advanced Keyboard 433","South Regional Warehouse",23,75,52
+435,"Digital Desk 435","North Distribution Warehouse",30,54,24
+435,"Digital Desk 435","South Regional Warehouse",17,54,37
+436,"Compact Monitor 436","Central Warehouse",50,79,29
+436,"Compact Monitor 436","North Distribution Warehouse",57,79,22
+436,"Compact Monitor 436","South Regional Warehouse",34,79,45
+437,"Essential Blender 437","Central Warehouse",71,77,6
+437,"Essential Blender 437","North Distribution Warehouse",27,77,50
+437,"Essential Blender 437","South Regional Warehouse",22,77,55
+438,"Classic Bottle 438","Central Warehouse",99,106,7
+438,"Classic Bottle 438","North Distribution Warehouse",99,106,7
+438,"Classic Bottle 438","South Regional Warehouse",27,106,79
+440,"Smart Chair 440","Central Warehouse",41,99,58
+440,"Smart Chair 440","North Distribution Warehouse",66,99,33
+440,"Smart Chair 440","South Regional Warehouse",54,99,45
+441,"Eco Charger 441","North Distribution Warehouse",20,47,27
+441,"Eco Charger 441","South Regional Warehouse",12,47,35
+443,"Advanced Monitor 443","Central Warehouse",57,86,29
+443,"Advanced Monitor 443","South Regional Warehouse",50,86,36
+444,"Advanced Headphones 444","Central Warehouse",33,42,9
+444,"Advanced Headphones 444","North Distribution Warehouse",30,42,12
+446,"Essential Storage Box 446","South Regional Warehouse",10,19,9
+448,"Premium Charger 448","Central Warehouse",18,93,75
+448,"Premium Charger 448","North Distribution Warehouse",37,93,56
+448,"Premium Charger 448","South Regional Warehouse",74,93,19
+449,"Smart Backpack 449","Central Warehouse",66,110,44
+449,"Smart Backpack 449","North Distribution Warehouse",56,110,54
+449,"Smart Backpack 449","South Regional Warehouse",8,110,102
+450,"Pro Charger 450","Central Warehouse",12,18,6
+451,"Eco Laptop 451","South Regional Warehouse",20,33,13
+452,"Premium Blender 452","Central Warehouse",24,44,20
+452,"Premium Blender 452","North Distribution Warehouse",19,44,25
+452,"Premium Blender 452","South Regional Warehouse",23,44,21
+453,"Digital Tool Kit 453","North Distribution Warehouse",23,58,35
+454,"Smart Bottle 454","Central Warehouse",63,69,6
+454,"Smart Bottle 454","South Regional Warehouse",64,69,5
+455,"Digital Mouse 455","North Distribution Warehouse",23,87,64
+456,"Classic Fan 456","Central Warehouse",49,84,35
+456,"Classic Fan 456","South Regional Warehouse",15,84,69
+457,"Essential Camera 457","Central Warehouse",51,85,34
+457,"Essential Camera 457","North Distribution Warehouse",49,85,36
+457,"Essential Camera 457","South Regional Warehouse",28,85,57
+459,"Digital Backpack 459","North Distribution Warehouse",19,31,12
+460,"Advanced Keyboard 460","Central Warehouse",80,102,22
+460,"Advanced Keyboard 460","South Regional Warehouse",73,102,29
+461,"Advanced Speaker 461","Central Warehouse",59,114,55
+461,"Advanced Speaker 461","North Distribution Warehouse",81,114,33
+461,"Advanced Speaker 461","South Regional Warehouse",40,114,74
+462,"Compact Router 462","Central Warehouse",13,69,56
+462,"Compact Router 462","North Distribution Warehouse",62,69,7
+462,"Compact Router 462","South Regional Warehouse",25,69,44
+463,"Pro Monitor 463","Central Warehouse",19,94,75
+463,"Pro Monitor 463","North Distribution Warehouse",72,94,22
+463,"Pro Monitor 463","South Regional Warehouse",36,94,58
+464,"Classic Router 464","North Distribution Warehouse",24,92,68
+464,"Classic Router 464","South Regional Warehouse",31,92,61
+465,"Compact Fan 465","South Regional Warehouse",14,35,21
+466,"Eco Lamp 466","Central Warehouse",54,98,44
+466,"Eco Lamp 466","South Regional Warehouse",31,98,67
+467,"Essential Mouse 467","Central Warehouse",70,98,28
+467,"Essential Mouse 467","North Distribution Warehouse",23,98,75
+467,"Essential Mouse 467","South Regional Warehouse",40,98,58
+468,"Advanced Keyboard 468","North Distribution Warehouse",52,81,29
+469,"Pro Bottle 469","South Regional Warehouse",13,23,10
+470,"Pro Monitor 470","Central Warehouse",37,47,10
+470,"Pro Monitor 470","North Distribution Warehouse",19,47,28
+470,"Pro Monitor 470","South Regional Warehouse",20,47,27
+471,"Compact Mixer 471","Central Warehouse",21,72,51
+471,"Compact Mixer 471","North Distribution Warehouse",50,72,22
+471,"Compact Mixer 471","South Regional Warehouse",52,72,20
+472,"Smart Storage Box 472","North Distribution Warehouse",19,34,15
+473,"Advanced Backpack 473","Central Warehouse",21,75,54
+473,"Advanced Backpack 473","South Regional Warehouse",23,75,52
+474,"Smart Desk 474","Central Warehouse",38,113,75
+474,"Smart Desk 474","North Distribution Warehouse",68,113,45
+474,"Smart Desk 474","South Regional Warehouse",28,113,85
+476,"Digital Fan 476","North Distribution Warehouse",9,15,6
+477,"Advanced Mouse 477","Central Warehouse",51,60,9
+477,"Advanced Mouse 477","North Distribution Warehouse",20,60,40
+477,"Advanced Mouse 477","South Regional Warehouse",52,60,8
+478,"Ultra Bottle 478","North Distribution Warehouse",10,73,63
+478,"Ultra Bottle 478","South Regional Warehouse",18,73,55
+480,"Eco Camera 480","Central Warehouse",48,103,55
+480,"Eco Camera 480","North Distribution Warehouse",63,103,40
+480,"Eco Camera 480","South Regional Warehouse",88,103,15
+481,"Advanced Monitor 481","Central Warehouse",32,45,13
+481,"Advanced Monitor 481","North Distribution Warehouse",28,45,17
+481,"Advanced Monitor 481","South Regional Warehouse",39,45,6
+482,"Smart Charger 482","Central Warehouse",51,66,15
+482,"Smart Charger 482","North Distribution Warehouse",27,66,39
+482,"Smart Charger 482","South Regional Warehouse",33,66,33
+483,"Ultra Chair 483","Central Warehouse",60,110,50
+483,"Ultra Chair 483","North Distribution Warehouse",50,110,60
+483,"Ultra Chair 483","South Regional Warehouse",38,110,72
+484,"Eco Storage Box 484","Central Warehouse",12,42,30
+484,"Eco Storage Box 484","South Regional Warehouse",21,42,21
+485,"Smart Storage Box 485","Central Warehouse",93,95,2
+485,"Smart Storage Box 485","North Distribution Warehouse",35,95,60
+485,"Smart Storage Box 485","South Regional Warehouse",21,95,74
+487,"Ultra Monitor 487","Central Warehouse",52,106,54
+487,"Ultra Monitor 487","North Distribution Warehouse",16,106,90
+489,"Classic Fan 489","Central Warehouse",83,109,26
+489,"Classic Fan 489","South Regional Warehouse",72,109,37
+490,"Eco Mixer 490","North Distribution Warehouse",41,61,20
+490,"Eco Mixer 490","South Regional Warehouse",32,61,29
+491,"Eco Backpack 491","North Distribution Warehouse",34,38,4
+492,"Advanced Fan 492","Central Warehouse",21,38,17
+493,"Ultra Camera 493","Central Warehouse",53,85,32
+493,"Ultra Camera 493","South Regional Warehouse",55,85,30
+494,"Essential Printer 494","Central Warehouse",27,36,9
+495,"Compact Desk 495","South Regional Warehouse",23,45,22
+496,"Digital Mixer 496","North Distribution Warehouse",36,52,16
+498,"Eco Backpack 498","Central Warehouse",30,83,53
+498,"Eco Backpack 498","North Distribution Warehouse",36,83,47
+500,"Eco Laptop 500","Central Warehouse",49,56,7
+500,"Eco Laptop 500","North Distribution Warehouse",14,56,42
+500,"Eco Laptop 500","South Regional Warehouse",16,56,40
