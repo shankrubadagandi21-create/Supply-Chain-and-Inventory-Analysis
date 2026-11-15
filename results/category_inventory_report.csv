@@ -1,0 +1,501 @@
+product_id,product_name,category,inventory_value
+1,"Premium Laptop 001",Electronics,3220158.48
+2,"Eco Blender 002","Home Appliances",2973170.32
+3,"Ultra Printer 003","Office Supplies",8217376.01
+4,"Premium Storage Box 004",Furniture,2989416.38
+5,"Premium Tool Kit 005",Accessories,369675.84
+6,"Compact Mouse 006",Kitchen,2957232.96
+7,"Smart Keyboard 007",Sports,7643979.62
+8,"Ultra Blender 008",Toys,958013.44
+9,"Essential Charger 009","Personal Care",3896796.96
+10,"Smart Storage Box 010",Automotive,17495.04
+11,"Ultra Storage Box 011",Electronics,2085671.88
+12,"Compact Blender 012","Home Appliances",2944350.48
+13,"Advanced Tool Kit 013","Office Supplies",164029.84
+14,"Eco Laptop 014",Furniture,8517518.86
+15,"Classic Backpack 015",Accessories,264310.05
+16,"Pro Bottle 016",Kitchen,1073889.45
+17,"Classic Desk 017",Sports,2235813.75
+18,"Pro Monitor 018",Toys,2112936.84
+19,"Premium Lamp 019","Personal Care",8947589.00
+20,"Premium Speaker 020",Automotive,30804938.83
+21,"Pro Charger 021",Electronics,2519997.18
+22,"Eco Mouse 022","Home Appliances",105409.92
+23,"Advanced Storage Box 023","Office Supplies",14374062.07
+24,"Premium Lamp 024",Furniture,202091.93
+25,"Premium Storage Box 025",Accessories,5117547.15
+26,"Eco Charger 026",Kitchen,976331.84
+27,"Pro Tool Kit 027",Sports,700687.50
+28,"Ultra Keyboard 028",Toys,6035833.05
+29,"Smart Blender 029","Personal Care",3619639.80
+30,"Eco Keyboard 030",Automotive,6615787.68
+31,"Ultra Monitor 031",Electronics,7399065.44
+32,"Compact Bottle 032","Home Appliances",365524.78
+33,"Advanced Speaker 033","Office Supplies",12096388.80
+34,"Classic Speaker 034",Furniture,3911438.80
+35,"Pro Desk 035",Accessories,5562080.81
+36,"Eco Keyboard 036",Kitchen,2170461.06
+37,"Digital Chair 037",Sports,4301878.56
+38,"Essential Blender 038",Toys,3074065.25
+39,"Classic Camera 039","Personal Care",14675998.04
+40,"Compact Bottle 040",Automotive,10420925.97
+41,"Essential Blender 041",Electronics,3773563.62
+42,"Pro Mouse 042","Home Appliances",2242598.40
+43,"Ultra Mouse 043","Office Supplies",713402.58
+44,"Pro Lamp 044",Furniture,24055762.50
+45,"Eco Keyboard 045",Accessories,7457555.90
+46,"Ultra Tool Kit 046",Kitchen,27187.00
+47,"Pro Desk 047",Sports,2182126.80
+48,"Advanced Lamp 048",Toys,12088823.25
+49,"Advanced Printer 049","Personal Care",4651432.56
+50,"Eco Printer 050",Automotive,2475269.60
+51,"Ultra Storage Box 051",Electronics,8148647.66
+52,"Essential Bottle 052","Home Appliances",11474096.33
+53,"Digital Backpack 053","Office Supplies",1267352.04
+54,"Digital Lamp 054",Furniture,16182435.24
+55,"Pro Blender 055",Accessories,15135283.57
+56,"Classic Mixer 056",Kitchen,5141587.78
+57,"Advanced Keyboard 057",Sports,4456747.55
+58,"Smart Monitor 058",Toys,10169331.55
+59,"Classic Chair 059","Personal Care",4947017.00
+60,"Compact Charger 060",Automotive,5759652.36
+61,"Premium Lamp 061",Electronics,4242111.72
+62,"Compact Charger 062","Home Appliances",8041624.02
+63,"Advanced Mixer 063","Office Supplies",519063.00
+64,"Eco Storage Box 064",Furniture,2674648.83
+65,"Smart Monitor 065",Accessories,17344823.44
+66,"Essential Bottle 066",Kitchen,4434389.85
+67,"Pro Monitor 067",Sports,22596701.26
+68,"Eco Backpack 068",Toys,10773345.72
+69,"Classic Camera 069","Personal Care",7467817.76
+70,"Smart Bottle 070",Automotive,3493532.85
+71,"Essential Chair 071",Electronics,6913981.56
+72,"Essential Monitor 072","Home Appliances",4407477.69
+73,"Eco Mixer 073","Office Supplies",13556140.44
+74,"Digital Desk 074",Furniture,1046232.19
+75,"Classic Speaker 075",Accessories,14892501.15
+76,"Classic Storage Box 076",Kitchen,2549264.02
+77,"Essential Laptop 077",Sports,5790526.50
+78,"Digital Router 078",Toys,2738881.48
+79,"Advanced Laptop 079","Personal Care",1011439.80
+80,"Premium Speaker 080",Automotive,4393638.72
+81,"Eco Blender 081",Electronics,21040444.88
+82,"Smart Blender 082","Home Appliances",1356951.96
+83,"Digital Keyboard 083","Office Supplies",19840173.60
+84,"Premium Fan 084",Furniture,2611911.10
+85,"Premium Storage Box 085",Accessories,2023814.16
+86,"Classic Printer 086",Kitchen,1540763.00
+87,"Advanced Storage Box 087",Sports,3038390.10
+88,"Classic Bottle 088",Toys,4207526.40
+89,"Essential Charger 089","Personal Care",23056352.85
+90,"Compact Desk 090",Automotive,4220083.78
+91,"Essential Desk 091",Electronics,4401146.32
+92,"Eco Lamp 092","Home Appliances",1467175.36
+93,"Pro Camera 093","Office Supplies",3271090.96
+94,"Essential Camera 094",Furniture,4350951.36
+95,"Premium Blender 095",Accessories,402842.65
+96,"Ultra Keyboard 096",Kitchen,4074078.78
+97,"Pro Laptop 097",Sports,4559954.20
+98,"Digital Storage Box 098",Toys,5415395.90
+99,"Ultra Tool Kit 099","Personal Care",4388806.04
+100,"Ultra Laptop 100",Automotive,831324.00
+101,"Premium Mouse 101",Electronics,3768305.49
+102,"Ultra Keyboard 102","Home Appliances",10828328.96
+103,"Smart Router 103","Office Supplies",3997248.75
+104,"Premium Mixer 104",Furniture,11147379.60
+105,"Ultra Bottle 105",Accessories,12762342.40
+106,"Advanced Desk 106",Kitchen,1962393.58
+107,"Essential Printer 107",Sports,9096157.95
+108,"Digital Tool Kit 108",Toys,3292573.45
+109,"Advanced Blender 109","Personal Care",4232285.16
+110,"Advanced Backpack 110",Automotive,4066056.60
+111,"Ultra Monitor 111",Electronics,5939332.27
+112,"Premium Backpack 112","Home Appliances",1941778.50
+113,"Pro Backpack 113","Office Supplies",13518137.22
+114,"Compact Camera 114",Furniture,14282385.00
+115,"Smart Monitor 115",Accessories,744670.00
+116,"Smart Lamp 116",Kitchen,5390312.40
+117,"Pro Monitor 117",Sports,6797530.28
+118,"Ultra Desk 118",Toys,7013697.24
+119,"Ultra Storage Box 119","Personal Care",4372348.71
+120,"Advanced Printer 120",Automotive,937007.19
+121,"Compact Chair 121",Electronics,4213631.56
+122,"Eco Camera 122","Home Appliances",3253295.05
+123,"Ultra Keyboard 123","Office Supplies",1836617.33
+124,"Advanced Storage Box 124",Furniture,9064135.68
+125,"Premium Mouse 125",Accessories,14864576.19
+126,"Essential Laptop 126",Kitchen,11409642.00
+127,"Premium Blender 127",Sports,12004932.59
+128,"Classic Backpack 128",Toys,27625797.12
+129,"Advanced Fan 129","Personal Care",8442165.18
+130,"Ultra Lamp 130",Automotive,2352114.20
+131,"Smart Chair 131",Electronics,10831787.03
+132,"Compact Laptop 132","Home Appliances",6238594.55
+133,"Compact Bottle 133","Office Supplies",8283281.60
+134,"Advanced Headphones 134",Furniture,4991780.70
+135,"Compact Storage Box 135",Accessories,1215083.48
+136,"Advanced Printer 136",Kitchen,100276.00
+137,"Ultra Headphones 137",Sports,2820258.35
+138,"Ultra Mouse 138",Toys,5251653.00
+139,"Digital Storage Box 139","Personal Care",34396814.34
+140,"Smart Router 140",Automotive,8634103.30
+141,"Smart Mouse 141",Electronics,1312371.81
+142,"Digital Fan 142","Home Appliances",5638802.44
+143,"Essential Mixer 143","Office Supplies",5487542.06
+144,"Classic Mouse 144",Furniture,3686385.60
+145,"Essential Keyboard 145",Accessories,10779419.19
+146,"Classic Keyboard 146",Kitchen,10180792.55
+147,"Digital Keyboard 147",Sports,4363851.44
+148,"Ultra Lamp 148",Toys,18989434.88
+149,"Premium Tool Kit 149","Personal Care",3118812.48
+150,"Ultra Tool Kit 150",Automotive,384792.88
+151,"Digital Mouse 151",Electronics,288165.24
+152,"Digital Keyboard 152","Home Appliances",11737837.44
+153,"Compact Tool Kit 153","Office Supplies",2934878.66
+154,"Digital Mixer 154",Furniture,2242295.10
+155,"Pro Bottle 155",Accessories,16293749.46
+156,"Ultra Router 156",Kitchen,3819246.27
+157,"Ultra Bottle 157",Sports,8154077.37
+158,"Compact Printer 158",Toys,17857273.14
+159,"Eco Camera 159","Personal Care",1853104.05
+160,"Pro Keyboard 160",Automotive,7968353.76
+161,"Smart Camera 161",Electronics,4089800.43
+162,"Digital Tool Kit 162","Home Appliances",3726988.65
+163,"Premium Keyboard 163","Office Supplies",5522482.50
+164,"Essential Desk 164",Furniture,460490.58
+165,"Essential Bottle 165",Accessories,5456330.00
+166,"Classic Speaker 166",Kitchen,1027516.00
+167,"Premium Blender 167",Sports,3118543.74
+168,"Pro Headphones 168",Toys,7321946.40
+169,"Classic Camera 169","Personal Care",1897285.52
+170,"Essential Headphones 170",Automotive,8164978.89
+171,"Digital Mixer 171",Electronics,7156827.28
+172,"Smart Storage Box 172","Home Appliances",1905276.30
+173,"Eco Monitor 173","Office Supplies",13476440.66
+174,"Classic Bottle 174",Furniture,6266580.48
+175,"Premium Monitor 175",Accessories,659998.04
+176,"Essential Printer 176",Kitchen,17073732.06
+177,"Eco Headphones 177",Sports,1154554.38
+178,"Digital Desk 178",Toys,520660.64
+179,"Pro Desk 179","Personal Care",896289.95
+180,"Eco Mixer 180",Automotive,9353499.16
+181,"Advanced Bottle 181",Electronics,4970285.68
+182,"Smart Keyboard 182","Home Appliances",4467477.70
+183,"Compact Bottle 183","Office Supplies",7226137.20
+184,"Smart Laptop 184",Furniture,4244843.20
+185,"Pro Printer 185",Accessories,7755068.35
+186,"Eco Chair 186",Kitchen,6849688.44
+187,"Advanced Storage Box 187",Sports,4281987.78
+188,"Compact Storage Box 188",Toys,6676130.89
+189,"Smart Monitor 189","Personal Care",17341725.40
+190,"Premium Printer 190",Automotive,7061994.06
+191,"Essential Mouse 191",Electronics,6742230.30
+192,"Pro Tool Kit 192","Home Appliances",8325096.39
+193,"Essential Printer 193","Office Supplies",4438477.90
+194,"Compact Printer 194",Furniture,10965885.42
+195,"Smart Headphones 195",Accessories,9049921.90
+196,"Pro Mouse 196",Kitchen,4051546.20
+197,"Pro Desk 197",Sports,3372206.36
+198,"Ultra Monitor 198",Toys,2945856.60
+199,"Pro Storage Box 199","Personal Care",13578805.38
+200,"Compact Charger 200",Automotive,3625203.40
+201,"Classic Blender 201",Electronics,2689552.23
+202,"Classic Chair 202","Home Appliances",9876282.88
+203,"Compact Laptop 203","Office Supplies",1752464.00
+204,"Classic Router 204",Furniture,1326634.26
+205,"Compact Blender 205",Accessories,2080877.34
+206,"Eco Chair 206",Kitchen,12709841.76
+207,"Premium Lamp 207",Sports,8764686.81
+208,"Smart Fan 208",Toys,6931225.90
+209,"Ultra Desk 209","Personal Care",4477067.90
+210,"Advanced Speaker 210",Automotive,1411588.88
+211,"Eco Blender 211",Electronics,183611.83
+212,"Ultra Laptop 212","Home Appliances",905940.00
+213,"Ultra Lamp 213","Office Supplies",762750.80
+214,"Pro Bottle 214",Furniture,2801472.08
+215,"Premium Bottle 215",Accessories,5462814.72
+216,"Pro Mixer 216",Kitchen,10175712.10
+217,"Compact Storage Box 217",Sports,5115753.14
+218,"Pro Laptop 218",Toys,4174033.56
+219,"Premium Bottle 219","Personal Care",3710982.99
+220,"Classic Tool Kit 220",Automotive,10858943.04
+221,"Eco Mouse 221",Electronics,395769.34
+222,"Premium Charger 222","Home Appliances",419765.87
+223,"Compact Speaker 223","Office Supplies",2783206.85
+224,"Pro Backpack 224",Furniture,2000493.66
+225,"Digital Mixer 225",Accessories,2302063.20
+226,"Premium Lamp 226",Kitchen,13866781.44
+227,"Digital Desk 227",Sports,228740.97
+228,"Eco Mouse 228",Toys,21391912.50
+229,"Compact Laptop 229","Personal Care",12551904.45
+230,"Essential Storage Box 230",Automotive,6652920.93
+231,"Ultra Speaker 231",Electronics,5696285.04
+232,"Compact Keyboard 232","Home Appliances",11750380.80
+233,"Pro Charger 233","Office Supplies",3573921.37
+234,"Pro Monitor 234",Furniture,8887159.36
+235,"Eco Mixer 235",Accessories,3590977.56
+236,"Eco Backpack 236",Kitchen,516555.78
+237,"Pro Lamp 237",Sports,394032.99
+238,"Eco Storage Box 238",Toys,3442868.70
+239,"Classic Desk 239","Personal Care",2972669.70
+240,"Compact Lamp 240",Automotive,9797009.56
+241,"Classic Charger 241",Electronics,1989501.93
+242,"Digital Headphones 242","Home Appliances",697613.40
+243,"Compact Storage Box 243","Office Supplies",14978251.20
+244,"Smart Headphones 244",Furniture,3319993.32
+245,"Eco Desk 245",Accessories,1705108.86
+246,"Compact Tool Kit 246",Kitchen,8470329.86
+247,"Digital Router 247",Sports,9593154.91
+248,"Advanced Camera 248",Toys,9401787.08
+249,"Advanced Desk 249","Personal Care",4381194.72
+250,"Essential Fan 250",Automotive,12948020.78
+251,"Classic Keyboard 251",Electronics,2677990.12
+252,"Eco Mixer 252","Home Appliances",8398166.60
+253,"Digital Router 253","Office Supplies",1710091.90
+254,"Premium Blender 254",Furniture,8449017.12
+255,"Eco Blender 255",Accessories,8466988.50
+256,"Ultra Printer 256",Kitchen,3337219.20
+257,"Smart Mouse 257",Sports,1117073.40
+258,"Ultra Fan 258",Toys,114402.68
+259,"Digital Keyboard 259","Personal Care",10134081.52
+260,"Advanced Backpack 260",Automotive,2122603.68
+261,"Digital Desk 261",Electronics,7174591.70
+262,"Compact Fan 262","Home Appliances",7871901.49
+263,"Compact Blender 263","Office Supplies",3240431.88
+264,"Classic Laptop 264",Furniture,7093473.26
+265,"Premium Backpack 265",Accessories,6342285.50
+266,"Ultra Chair 266",Kitchen,10825223.20
+267,"Essential Camera 267",Sports,7187881.40
+268,"Smart Storage Box 268",Toys,9137903.92
+269,"Ultra Monitor 269","Personal Care",576323.21
+270,"Advanced Printer 270",Automotive,307694.28
+271,"Advanced Mixer 271",Electronics,8541044.48
+272,"Essential Charger 272","Home Appliances",6150945.72
+273,"Pro Camera 273","Office Supplies",5056400.83
+274,"Digital Mixer 274",Furniture,5147484.16
+275,"Compact Storage Box 275",Accessories,1479236.07
+276,"Advanced Chair 276",Kitchen,2978580.30
+277,"Advanced Camera 277",Sports,18862611.48
+278,"Eco Blender 278",Toys,1474319.00
+279,"Eco Mixer 279","Personal Care",1461232.32
+280,"Advanced Blender 280",Automotive,3364117.08
+281,"Eco Camera 281",Electronics,8127081.74
+282,"Premium Headphones 282","Home Appliances",11514596.06
+283,"Ultra Bottle 283","Office Supplies",9780376.68
+284,"Pro Router 284",Furniture,3847562.89
+285,"Essential Keyboard 285",Accessories,4357624.98
+286,"Classic Printer 286",Kitchen,6648682.80
+287,"Ultra Lamp 287",Sports,1736307.19
+288,"Classic Desk 288",Toys,1802838.18
+289,"Premium Backpack 289","Personal Care",5064009.30
+290,"Compact Router 290",Automotive,6097524.92
+291,"Essential Camera 291",Electronics,1488589.06
+292,"Compact Mouse 292","Home Appliances",12678445.35
+293,"Ultra Backpack 293","Office Supplies",4463217.16
+294,"Compact Tool Kit 294",Furniture,3146280.76
+295,"Smart Tool Kit 295",Accessories,3047138.50
+296,"Compact Fan 296",Kitchen,3331698.14
+297,"Smart Speaker 297",Sports,4942804.08
+298,"Eco Lamp 298",Toys,133836.78
+299,"Compact Storage Box 299","Personal Care",7958687.00
+300,"Essential Charger 300",Automotive,12976994.24
+301,"Ultra Fan 301",Electronics,14844952.10
+302,"Ultra Bottle 302","Home Appliances",2904725.12
+303,"Compact Fan 303","Office Supplies",8253932.72
+304,"Smart Lamp 304",Furniture,2011081.35
+305,"Pro Lamp 305",Accessories,8235136.00
+306,"Classic Camera 306",Kitchen,5113620.23
+307,"Classic Charger 307",Sports,8667121.32
+308,"Essential Laptop 308",Toys,6422965.72
+309,"Compact Tool Kit 309","Personal Care",6870048.75
+310,"Digital Laptop 310",Automotive,571641.48
+311,"Premium Backpack 311",Electronics,1156788.36
+312,"Classic Camera 312","Home Appliances",2865107.55
+313,"Classic Mouse 313","Office Supplies",4880514.40
+314,"Eco Lamp 314",Furniture,3337846.35
+315,"Pro Desk 315",Accessories,1075370.78
+316,"Advanced Router 316",Kitchen,7410512.07
+317,"Pro Lamp 317",Sports,4071607.20
+318,"Eco Backpack 318",Toys,4186005.60
+319,"Eco Keyboard 319","Personal Care",4364413.02
+320,"Advanced Laptop 320",Automotive,11266785.75
+321,"Essential Mouse 321",Electronics,1797634.28
+322,"Pro Blender 322","Home Appliances",11658448.16
+323,"Premium Mouse 323","Office Supplies",3174000.57
+324,"Smart Blender 324",Furniture,4628737.56
+325,"Ultra Laptop 325",Accessories,686955.78
+326,"Digital Printer 326",Kitchen,16328412.30
+327,"Ultra Printer 327",Sports,2145426.96
+328,"Advanced Monitor 328",Toys,10567445.46
+329,"Digital Desk 329","Personal Care",7765050.37
+330,"Advanced Bottle 330",Automotive,4490433.87
+331,"Pro Chair 331",Electronics,3770729.36
+332,"Digital Charger 332","Home Appliances",7655126.28
+333,"Premium Chair 333","Office Supplies",14225622.30
+334,"Eco Monitor 334",Furniture,578092.32
+335,"Digital Laptop 335",Accessories,107401.38
+336,"Eco Tool Kit 336",Kitchen,8151578.10
+337,"Compact Lamp 337",Sports,7892735.52
+338,"Ultra Keyboard 338",Toys,5636004.42
+339,"Digital Blender 339","Personal Care",6471544.70
+340,"Premium Headphones 340",Automotive,4360407.49
+341,"Digital Monitor 341",Electronics,4109880.02
+342,"Digital Mouse 342","Home Appliances",1965065.11
+343,"Pro Storage Box 343","Office Supplies",2132473.20
+344,"Compact Speaker 344",Furniture,12027022.30
+345,"Premium Mixer 345",Accessories,9020866.22
+346,"Pro Laptop 346",Kitchen,3940471.22
+347,"Compact Fan 347",Sports,3539488.44
+348,"Premium Backpack 348",Toys,6246029.79
+349,"Pro Camera 349","Personal Care",5331243.20
+350,"Classic Backpack 350",Automotive,4806559.42
+351,"Classic Mixer 351",Electronics,6051092.64
+352,"Eco Charger 352","Home Appliances",5985358.76
+353,"Essential Fan 353","Office Supplies",4736602.52
+354,"Advanced Backpack 354",Furniture,1044852.13
+355,"Digital Bottle 355",Accessories,3011929.80
+356,"Pro Blender 356",Kitchen,9320965.50
+357,"Premium Bottle 357",Sports,9212456.00
+358,"Advanced Blender 358",Toys,1983179.28
+359,"Advanced Tool Kit 359","Personal Care",4179745.62
+360,"Digital Lamp 360",Automotive,5549067.30
+361,"Pro Laptop 361",Electronics,3446185.27
+362,"Advanced Router 362","Home Appliances",5810237.10
+363,"Classic Fan 363","Office Supplies",2817898.56
+364,"Ultra Speaker 364",Furniture,6223477.96
+365,"Eco Router 365",Accessories,10484089.55
+366,"Eco Charger 366",Kitchen,4401890.75
+367,"Eco Storage Box 367",Sports,4939193.74
+368,"Smart Mixer 368",Toys,9449648.46
+369,"Ultra Keyboard 369","Personal Care",4094531.33
+370,"Ultra Backpack 370",Automotive,7026591.54
+371,"Advanced Storage Box 371",Electronics,6469610.10
+372,"Ultra Fan 372","Home Appliances",14631817.56
+373,"Advanced Camera 373","Office Supplies",310313.10
+374,"Smart Keyboard 374",Furniture,1401587.58
+375,"Eco Blender 375",Accessories,2450345.94
+376,"Compact Blender 376",Kitchen,7420035.02
+377,"Eco Tool Kit 377",Sports,5662110.00
+378,"Pro Fan 378",Toys,16965154.50
+379,"Essential Mixer 379","Personal Care",7108173.44
+380,"Pro Backpack 380",Automotive,1306973.16
+381,"Essential Router 381",Electronics,341648.75
+382,"Pro Camera 382","Home Appliances",3192551.92
+383,"Eco Headphones 383","Office Supplies",1272867.20
+384,"Eco Blender 384",Furniture,8889947.40
+385,"Premium Desk 385",Accessories,4799001.60
+386,"Pro Monitor 386",Kitchen,4418076.08
+387,"Essential Chair 387",Sports,6781702.95
+388,"Ultra Desk 388",Toys,2158586.45
+389,"Advanced Bottle 389","Personal Care",2598886.00
+390,"Digital Mixer 390",Automotive,1449318.20
+391,"Digital Headphones 391",Electronics,4211105.90
+392,"Premium Desk 392","Home Appliances",408563.18
+393,"Eco Blender 393","Office Supplies",4516008.80
+394,"Pro Chair 394",Furniture,7395867.04
+395,"Eco Laptop 395",Accessories,2870901.60
+396,"Essential Printer 396",Kitchen,3973438.98
+397,"Eco Mouse 397",Sports,7956025.91
+398,"Smart Storage Box 398",Toys,2800020.75
+399,"Eco Printer 399","Personal Care",598444.00
+400,"Advanced Monitor 400",Automotive,3244237.37
+401,"Smart Tool Kit 401",Electronics,7508051.04
+402,"Eco Fan 402","Home Appliances",7891649.70
+403,"Advanced Camera 403","Office Supplies",10430226.00
+404,"Pro Chair 404",Furniture,12303416.05
+405,"Smart Bottle 405",Accessories,2052656.78
+406,"Advanced Monitor 406",Kitchen,1882391.46
+407,"Premium Lamp 407",Sports,8017943.16
+408,"Advanced Keyboard 408",Toys,1379720.25
+409,"Digital Mouse 409","Personal Care",3348490.20
+410,"Classic Printer 410",Automotive,9615388.98
+411,"Digital Headphones 411",Electronics,3423738.76
+412,"Premium Blender 412","Home Appliances",7525817.84
+413,"Premium Storage Box 413","Office Supplies",3529844.96
+414,"Compact Charger 414",Furniture,6205355.73
+415,"Digital Charger 415",Accessories,5086704.54
+416,"Ultra Mixer 416",Kitchen,6463519.04
+417,"Compact Camera 417",Sports,2909109.90
+418,"Advanced Headphones 418",Toys,4624131.33
+419,"Digital Backpack 419","Personal Care",2226988.80
+420,"Eco Tool Kit 420",Automotive,2389410.42
+421,"Digital Mouse 421",Electronics,96182.97
+422,"Digital Monitor 422","Home Appliances",2090756.58
+423,"Ultra Desk 423","Office Supplies",10067342.74
+424,"Eco Keyboard 424",Furniture,2156252.08
+425,"Classic Blender 425",Accessories,439469.38
+426,"Classic Storage Box 426",Kitchen,592342.24
+427,"Premium Chair 427",Sports,2859356.72
+428,"Smart Backpack 428",Toys,4731993.59
+429,"Advanced Charger 429","Personal Care",1761797.72
+430,"Advanced Headphones 430",Automotive,7514302.32
+431,"Smart Blender 431",Electronics,6428042.72
+432,"Eco Headphones 432","Home Appliances",1698451.04
+433,"Advanced Keyboard 433","Office Supplies",8165660.49
+434,"Ultra Bottle 434",Furniture,11555790.95
+435,"Digital Desk 435",Accessories,3660612.52
+436,"Compact Monitor 436",Kitchen,7055002.68
+437,"Essential Blender 437",Sports,7550660.40
+438,"Classic Bottle 438",Toys,6232349.25
+439,"Classic Keyboard 439","Personal Care",11729906.65
+440,"Smart Chair 440",Automotive,1213168.81
+441,"Eco Charger 441",Electronics,4293485.50
+442,"Digital Headphones 442","Home Appliances",6693076.23
+443,"Advanced Monitor 443","Office Supplies",15631283.46
+444,"Advanced Headphones 444",Furniture,3673505.26
+445,"Compact Bottle 445",Accessories,2621497.96
+446,"Essential Storage Box 446",Kitchen,7281843.24
+447,"Advanced Camera 447",Sports,40861119.70
+448,"Premium Charger 448",Toys,5743387.02
+449,"Smart Backpack 449","Personal Care",2159465.10
+450,"Pro Charger 450",Automotive,79356.90
+451,"Eco Laptop 451",Electronics,7246038.69
+452,"Premium Blender 452","Home Appliances",2602256.58
+453,"Digital Tool Kit 453","Office Supplies",7682243.14
+454,"Smart Bottle 454",Furniture,12555195.21
+455,"Digital Mouse 455",Accessories,16686060.30
+456,"Classic Fan 456",Kitchen,10552463.16
+457,"Essential Camera 457",Sports,7807623.68
+458,"Eco Chair 458",Toys,5507992.96
+459,"Digital Backpack 459","Personal Care",15759290.85
+460,"Advanced Keyboard 460",Automotive,1011926.80
+461,"Advanced Speaker 461",Electronics,1647723.60
+462,"Compact Router 462","Home Appliances",4880258.00
+463,"Pro Monitor 463","Office Supplies",1359476.58
+464,"Classic Router 464",Furniture,1839392.91
+465,"Compact Fan 465",Accessories,7528040.40
+466,"Eco Lamp 466",Kitchen,12984107.40
+467,"Essential Mouse 467",Sports,7584705.38
+468,"Advanced Keyboard 468",Toys,11993184.00
+469,"Pro Bottle 469","Personal Care",8862478.40
+470,"Pro Monitor 470",Automotive,4444967.16
+471,"Compact Mixer 471",Electronics,4320078.57
+472,"Smart Storage Box 472","Home Appliances",3762410.15
+473,"Advanced Backpack 473","Office Supplies",3102117.42
+474,"Smart Desk 474",Furniture,4739238.30
+475,"Essential Speaker 475",Accessories,4080894.09
+476,"Digital Fan 476",Kitchen,981634.56
+477,"Advanced Mouse 477",Sports,2667427.20
+478,"Ultra Bottle 478",Toys,2749580.82
+479,"Essential Printer 479","Personal Care",2082694.56
+480,"Eco Camera 480",Automotive,6416337.10
+481,"Advanced Monitor 481",Electronics,5753039.49
+482,"Smart Charger 482","Home Appliances",7198372.20
+483,"Ultra Chair 483","Office Supplies",3006916.00
+484,"Eco Storage Box 484",Furniture,3898116.53
+485,"Smart Storage Box 485",Accessories,336282.57
+486,"Compact Keyboard 486",Kitchen,10587645.12
+487,"Ultra Monitor 487",Sports,12425919.34
+488,"Advanced Monitor 488",Toys,1034480.43
+489,"Classic Fan 489","Personal Care",1989845.54
+490,"Eco Mixer 490",Automotive,4492015.95
+491,"Eco Backpack 491",Electronics,9494983.63
+492,"Advanced Fan 492","Home Appliances",6322995.00
+493,"Ultra Camera 493","Office Supplies",3636009.00
+494,"Essential Printer 494",Furniture,6022869.60
+495,"Compact Desk 495",Accessories,7089561.00
+496,"Digital Mixer 496",Kitchen,7309929.69
+497,"Classic Keyboard 497",Sports,6624728.30
+498,"Eco Backpack 498",Toys,2492557.20
+499,"Pro Mixer 499","Personal Care",1651433.58
+500,"Eco Laptop 500",Automotive,2062158.33
